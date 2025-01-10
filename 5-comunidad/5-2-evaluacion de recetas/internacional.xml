@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Evaluacion de Recetas</es>
+        <en>Recipe Evaluation</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>Comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu6">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu2">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu3">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu4">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu5">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu8">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+
+
+    <text id="e1">
+        <es>RECETAS</es>
+        <en>RECIPES</en>
+    </text>
+    <text id="e2">
+        <es>Comentarios y sugerencias</es>
+        <en>Comments and suggestions</en>
+    </text>
+    <text id="e3">
+        <es>Nombre de la Receta</es>
+        <en>Recipe Name</en>
+    </text>
+    <text id="e4">
+        <es>Ingredientes Necesarios</es>
+        <en>Necessary Ingredients</en>
+    </text>
+    <text id="e5">
+        <es>Preparacion</es>
+        <en>Preparation</en>
+    </text>
+    <text id="e6">
+        <es>Categoria</es>
+        <en>Category</en>
+    </text>
+    <text id="e7">
+        <es>Tiempo estimado</es>
+        <en>Estimated time</en>
+    </text>
+    <text id="e8">
+        <es>Me Gusta..........:</es>
+        <en>I Like..........:</en>
+    </text>
+    <text id="e9">
+        <es>No Me Gusta....:</es>
+        <en>I Dislike....:</en>
+    </text>
+    <text id="e10">
+        <es>Regular.............:</es>
+        <en>Neutral.............:</en>
+    </text>
+    <text id="e11">
+        <es>Me gusta</es>
+        <en>I Like</en>
+    </text>
+    <text id="e12">
+        <es>No me gusta</es>
+        <en>I Dislike</en>
+    </text>
+    <text id="e13">
+        <es>Regular</es>
+        <en>Neutral</en>
+    </text> 
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>

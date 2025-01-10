@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Formulario</nombre>
+        <link>../2-formulario/index.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>../3-resultados/index.html</link>
+    </item>
+    <item>
+        <nombre>Recomendaciones</nombre>
+        <link>../4-recomendacion/index.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>../aulas.html</link>
+        <submenu>
+            <items>
+                <nombre>Foro de Discucion</nombre>
+                <link>../5-comunidad/5-1-foro-discucion/index.html</link>
+            </items>
+            <items>
+                <nombre>Evaluacion de Recetas</nombre>
+                <link>../5-comunidad/5-2-evaluacion de recetas/index.html</link>
+            </items>
+        </submenu>
+
+    </item>
+    <item>
+        <nombre>Extras</nombre>
+        <link>../6-extras/index.html</link>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>../aulas.html</link>
+        <submenu>
+            <items>
+                <nombre>Modificar y Guardar</nombre>
+                <link>../7-faq/7-1-Modificar-Guardar/index.html</link>
+            </items>
+            <items>
+                <nombre>Privacidad y Soporte</nombre>
+                <link>../7-faq/7-2-Privacidad-soporte/index.html</link>
+            </items>
+        </submenu>
+    </item>
+    <item>
+        <nombre>Contactos</nombre>
+        <link>../aulas.html</link>
+        <submenu>
+            <items>
+                <nombre>Formulario de Contacto</nombre>
+                <link>../8-contacto/8-1-Formulario-contactos/index.html</link>
+            </items>
+            <items>
+                <nombre>Redes Sociales</nombre>
+                <link>../8-contacto/8-2-Redes-sociales/index.html</link>
+            </items>
+        </submenu>
+    </item>
+    <item>
+        <nombre>volver...</nombre>
+        <link>../index.html</link>
+    </item>
+</menu>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu3">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu4">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu5">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu6">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social Networks</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+    <text id="t1">
+        <es>RECETAS</es>
+        <en>RECIPES</en>
+    </text>
+    <text id="t2">
+        <es>Comentarios y sugerencias</es>
+        <en>Comments and Suggestions</en>
+    </text>
+    <text id="t3">
+        <es>Nombre de la Receta</es>
+        <en>Recipe Name</en>
+    </text>
+    <text id="t4">
+        <es>Ingredientes Necesarios</es>
+        <en>Required Ingredients</en>
+    </text>
+    <text id="t5">
+        <es>Preparacion</es>
+        <en>Preparation</en>
+    </text>
+    <text id="t6">
+        <es>Categoria</es>
+        <en>Category</en>
+    </text>
+    <text id="t7">
+        <es>Tiempo estimado</es>
+        <en>Estimated Time</en>
+    </text>
+    <text id="t8">
+        <es>Sugerencia</es>
+        <en>Suggestion</en>
+    </text>
+    <text id="t9">
+        <es>Comentarios</es>
+        <en>Comments</en>
+    </text>
+    <text id="t10">
+        <es>agregar Comentario</es>
+        <en>Add Comment</en>
+    </text>
+    <text id="t11">
+        <es>agregar Sugerencia</es>
+        <en>Add Suggestion</en>
+    </text>
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>

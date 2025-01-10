@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu0">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu1">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu2">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu3">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu4">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu5">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu6">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Volver</es>
+        <en>Back</en>
+    </text> 
+ 
+    <text id="t1">
+        <es>Descripción del Proyecto</es>
+        <en>Project Description</en>
+    </text> 
+    <text id="mensaje1">
+        <es>"Descubre nuevas maneras de cocinar con nuestras recetas personalizadas. Diseñado para adaptarse a tus gustos, necesidades dietéticas y preferencias culinarias, la pagina te ayudará a crear platos únicos que se ajusten perfectamente a tu estilo de vida. Ya sea que busques inspiración para una cena especial o soluciones rápidas para el día a día o compartir alguna receta, aquí encontrarás recetas hechas a tu medida."</es>
+        <en>"Discover new ways to cook with our personalized recipes. Designed to fit your tastes, dietary needs and culinary preferences, the page will help you create unique dishes that fit perfectly into your lifestyle. Whether you are looking for dinner inspiration special or quick solutions for everyday life or share a recipe, here you will find recipes tailored to you."</en>
+    </text> 
+    <text id="t2">
+        <es>Beneficios de Crear Recetas Personalizadas</es>
+        <en>Benefits of Creating Custom Recipes</en>
+    </text> 
+    <text id="mensaje2">
+        <es>Adaptación a tus necesidades: Crea recetas que respeten tus alergias, intolerancias o preferencias alimenticias.
+                Aprovecha lo que tienes: Diseña platos basados en los ingredientes disponibles en tu despensa.
+                Ahorro de tiempo y esfuerzo: Obtén recetas claras y adaptadas a tus requisitos en minutos.
+                Creatividad en la cocina: Experimenta con combinaciones únicas de sabores y texturas.
+                Cumple tus metas: Diseña recetas alineadas con tus objetivos de salud, ya sea ganar masa muscular, perder peso o mantener una dieta equilibrada.</es>
+        <en>Adaptation to your needs: Create recipes that respect your allergies, intolerances or food preferences.
+                Take advantage of what you have: Design dishes based on the ingredients available in your pantry.
+                Saving time and effort: Get clear recipes adapted to your requirements in minutes.
+                Creativity in the kitchen: Experiment with unique combinations of flavors and textures.
+                Meet your goals: Design recipes aligned with your health goals, whether it is gaining muscle mass, losing weight or maintaining a balanced diet.</en>
+    </text> 
+    <text id="t3">
+        <es>Instrucciones de Uso</es>
+        <en>Instructions for Use</en>
+    </text> 
+    <text id="mensaje3">
+        <es>Regístrate o inicia sesión: Accede a todas las funciones de personalización.
+                Completa tu perfil: Indica tus preferencias, alergias, intolerancias y objetivos.
+                Selecciona ingredientes: Elige lo que tienes en casa o los sabores que deseas explorar.
+                Genera tu receta personalizada: Obtén una receta paso a paso adaptada a tus necesidades.
+                Guarda y comparte: Guarda tus recetas favoritas en tu perfil y compártelas con amigos o familiares.
+                Prueba y ajusta: Modifica los ingredientes o cantidades para seguir experimentando.</es>
+        <en>Register or log in: Access all customization features.
+                Complete your profile: Indicate your preferences, allergies, intolerances and goals.
+                Select ingredients: Choose what you have at home or the flavors you want to explore.
+                Generate your personalized recipe: Get a step-by-step recipe adapted to your needs.
+                Save and share: Save your favorite recipes to your profile and share them with friends or family.
+                Taste and adjust: Modify the ingredients or quantities to continue experimenting.</en>
+    </text> 
+    <text id="t4">
+        <es>Preguntas Frecuentes</es>
+        <en>Frequently Asked Questions</en>
+    </text> 
+    <text id="mensaje4">
+        <es>1. ¿La plataforma es gratuita?
+                R: Sí, ofrecemos funciones gratuitas.
+                
+                2. ¿Puedo guardar mis recetas?
+                R: Por supuesto.
+                
+                3. ¿Qué tipo de dietas admite la plataforma?
+                R: Nuestra herramienta es compatible con dietas vegetarianas, veganas, cetogénicas, sin gluten, sin lácteos, entre otras.
+                
+                4. ¿Cómo sé si las recetas son saludables?
+                R: Cada receta incluye un desglose nutricional para ayudarte a tomar decisiones informadas.
+                
+                5. ¿Puedo usar la plataforma si tengo restricciones alimenticias?
+                R: ¡Claro! Puedes personalizar tus recetas.
+                
+                6. ¿Puedo compartir mis recetas personalizadas?
+                R: Sí, puedes compartir tus recetas.
+                
+                7. ¿Qué pasa si no tengo todos los ingredientes necesarios?
+                R: Puedes indicar qué ingredientes tienes, y la plataforma generará una receta adecuada o te sugerirá alternativas.
+                </es>
+        <en>1. Is the platform free?
+                R: Yes, we offer free features.
+                
+                2. Can I save my recipes?
+                R: Of course.
+                
+                3. What type of diets does the platform support?
+                R: Our tool is compatible with vegetarian, vegan, ketogenic, gluten-free, dairy-free diets, among others.
+                
+                4. How do I know if the recipes are healthy?
+                R: Each recipe includes a nutritional breakdown to help you make informed decisions.
+                
+                5. Can I use the platform if I have dietary restrictions?
+                R: Sure! You can customize your recipes.
+                
+                6. Can I share my personalized recipes?
+                R: Yes, you can share your recipes.
+                
+                7. What happens if I don't have all the necessary ingredients?
+                R: You can indicate what ingredients you have, and the platform will generate a suitable recipe or suggest alternatives.</en>
+    </text> 
+
+
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text>   
+</translations>

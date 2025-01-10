@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Privacidad y Soporte</es>
+        <en>Privacy and Support</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu6">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu4">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu5">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu8">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+
+
+
+    <text id="t0">
+        <es>Política de Privacidad y Soporte</es>
+        <en>Privacy Policy and Support</en>
+    </text>
+    <text id="t1">
+        <es>Privacidad de Datos</es>
+        <en>Data Privacy</en>
+    </text>
+    <text id="t2">
+        <es>Nos tomamos muy en serio la privacidad de tus datos. Toda la información que compartas con nosotros será tratada de forma confidencial y estará protegida mediante estándares de seguridad actuales.</es>
+        <en>We take your data privacy very seriously. All the information you share with us will be treated confidentially and protected using current security standards.</en>
+    </text>
+    <text id="t3">
+        <es>Contacto con Soporte</es>
+        <en>Contact Support</en>
+    </text>
+    <text id="t4">
+        <es>¿Tienes dudas o necesitas ayuda? Contáctanos y estaremos encantados de asistirte.</es>
+        <en>Do you have any questions or need assistance? Contact us, and we’ll be happy to help you.</en>
+    </text>
+    <text id="t5">
+        <es>Nombre</es>
+        <en>Name</en>
+    </text>
+    <text id="t6">
+        <es>Correo Electrónico</es>
+        <en>Email</en>
+    </text>
+    <text id="t7">
+        <es>Mensaje</es>
+        <en>Message</en>
+    </text>
+    <text id="enviar">
+        <es>Enviar</es>
+        <en>Send</en>
+    </text>
+
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>

@@ -1,0 +1,36 @@
+
+
+
+.cuerpo {
+  margin-top: 80px; /* Ajusta este valor según la altura del menú */
+}
+  
+  
+  
+  .cuerpo {
+    background-image: url('imagenes/index/fondo.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 125vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cuerpo h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+
+  .cuerpo p {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 1rem;
+    max-width: 600px;
+    margin: 0 auto 30px;
+  }

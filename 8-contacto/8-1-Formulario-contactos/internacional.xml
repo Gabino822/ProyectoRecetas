@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Formulario de Contacto</es>
+        <en>Contact Form</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu6">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Contactos</es>
+        <en>Contacts</en>
+    </text>
+    <text id="menu8">
+        <es>Volver</es>
+        <en>Back</en>
+        <text id="submenu5">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text> 
+
+
+    <text id="t1">
+        <es>Formulario de Preguntas Sobre las Recetas</es>
+        <en>Recipe Inquiry Form</en>
+    </text>
+    <text id="t2">
+        <es>Si tienen dudas o preguntas sobre las recetas no dude en escribir</es>
+        <en>If you have any questions or inquiries about the recipes, feel free to write to us.</en>
+    </text>
+    <text id="t3">
+        <es>Nombre</es>
+        <en>Name</en>
+    </text>
+    <text id="t4">
+        <es>Correo Electrónico</es>
+        <en>Email</en>
+    </text>
+    <text id="t5">
+        <es>Asunto</es>
+        <en>Subject</en>
+    </text>
+    <text id="t6">
+        <es>Mensaje</es>
+        <en>Message</en>
+    </text>
+    <text id="enviar">
+        <es>Enviar</es>
+        <en>Send</en>
+    </text>
+
+
+
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>

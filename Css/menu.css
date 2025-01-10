@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-nav .dropdown-menu {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-nav .dropdown-item:hover {
+    background-color: #e9ecef;
+  }
+
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+  }
+  
+
+
+  footer h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2.5rem;
+  } 
+  footer .btn-outline-light {
+    border: 2px solid #fff;
+  }
+  
+  footer .bi {
+    font-size: 1.5rem;
+  }
+

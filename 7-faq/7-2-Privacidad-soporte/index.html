@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="../../Css/menu.css">
+  </head>
+  <body>
+  <!-- Menú de navegación -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" href="index.html" style="font-size: 180%; font-weight: bold;" id="misitio">Privacidad y Soporte</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav" id="menu">
+            
+          </ul>
+          <select id="idioma">
+            <option value="es">Español</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+    </nav>
+    <cuerpo class="cuerpo">
+			
+
+      <header class="bg-dark text-white text-center py-3">
+        <br><br><br><br>
+        <h1 id="t0">Política de Privacidad y Soporte</h1>
+      </header>
+
+      <main class="container my-4">
+          <!-- Privacidad de Datos -->
+          <section class="mb-5">
+              <h2 class="text-light" id="t1">Privacidad de Datos</h2>
+              <p id="t2">
+                  Nos tomamos muy en serio la privacidad de tus datos. Toda la información que compartas con nosotros será tratada de forma confidencial y estará protegida mediante estándares de seguridad actuales.
+              </p>
+          </section>
+
+          <!-- Contacto con Soporte -->
+          <section>
+              <h2 class="text-light" id="t3">Contacto con Soporte</h2>
+              <p id="t4">¿Tienes dudas o necesitas ayuda? Contáctanos y estaremos encantados de asistirte.</p>
+              
+              <form id="contact-form">
+                  <div class="mb-3">
+                      <label for="name" class="form-label" id="t5">Nombre</label>
+                      <input type="text" class="form-control" id="name" placeholder="Ingresa tu nombre">
+                  </div>
+                  <div class="mb-3">
+                      <label for="email" class="form-label" id="t6">Correo Electrónico</label>
+                      <input type="email" class="form-control" id="email" placeholder="Ingresa tu correo electrónico">
+                  </div>
+                  <div class="mb-3">
+                      <label for="message" class="form-label"  id="t7">Mensaje</label>
+                      <textarea class="form-control" id="message" rows="5" placeholder="Escribe tu mensaje aquí"></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-primary" id="enviar">Enviar</button>
+              </form>
+          </section>
+      </main>
+
+
+		</cuerpo>
+    <footer class="bg-dark text-white text-center py-5">
+      <div class="contenido-pie">
+        <!-- Logo y descripción -->
+        <h2 class="mb-2">Michael Manrique
+          <a href="#" class="btn btn-outline-light btn-lg me-2" aria-label="Facebook">
+            <i class="bi bi-facebook"></i>
+          </a>
+        </h2>
+        <p class="mb-4" id="pie1" >recetas con estilo</p>
+        <p class="small mb-0">
+          Michael Manrique. <a href="#" class="text-decoration-none text-white-50" id="pie2" >derechos reservados</a>
+        </p>
+      </div>
+    </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../../script.js"></script>
+      <script>
+        const sendButton = document.getElementById('enviar');
+
+        sendButton.addEventListener('click', function () {
+            alert('Nos contactaremos lo más pronto posible. ¡Gracias por escribirnos!');
+        });
+    </script>
+    <script src="../../idioma.js"></script>
+
+  </body>
+</html>

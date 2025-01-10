@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú con Submenús Adaptable</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="../Css/menu.css">
+  </head>
+  <body>
+  <!-- Menú de navegación -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" href="index.html" style="font-size: 180%; font-weight: bold;" id="misitio">Formulario</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav" id="menu">
+            
+          </ul>
+          <select id="idioma">
+            <option value="es">Español</option>
+            <option value="en">English</option>
+          </select>
+        </div>
+      </div>
+    </nav>
+    <div class="cuerpo">
+      <div class="fondo-degradado d-flex justify-content-center align-items-center vh-1000 ">
+        <div class="contenedor-formulario my-5">
+          <div class="encabezado-formulario" id="t1">FORMULARIO DE CREACION</div>
+          <form id="addForm">
+              <div class="mb-3">
+              <label for="nombre" class="form-label" id="t2">Nombre de la receta</label>
+              <input type="text" class="form-control" id="nombre" placeholder="Ingrese el Nombre de la Receta">
+            </div>
+            <div class="mb-3">
+              <label for="ingredientes" class="form-label" id="t3">Ingrese los ingredientes Necesarios</label>
+              <textarea class="form-control" id="ingredientes" rows="4" placeholder="Escribe aquí los ingredientes..."></textarea>
+            </div>
+            <div class="mb-3">
+              <label for="preparacion" class="form-label" id="t4">Ingrese el metodo de preparacion</label>
+              <textarea class="form-control" id="preparacion" rows="4" placeholder="Escribe aquí la Preparacion..."></textarea>
+            </div>
+
+            <div class="mb-3">
+              <label for="nombre" class="form-label"></label>
+              <div class="row">
+                <div class="col">
+                    <label for="asunto" class="form-label" id="t5">Tipo de Receta</label>
+                    <select class="form-select" id="tipo">
+                      <option selected id="op">Seleccionar opción</option>
+                      <option value="Postre" id="op1">Postre</option>
+                      <option value="Plato Principal" id="op2">Plato Principal</option>
+                      <option value="Sopas" id="op3">Sopas</option>
+                      <option value="Ensaladas" id="op4">Ensaladas</option>
+                      <option value="Otros" id="op5">Otro</option>
+                    </select>
+                </div>
+                <div class="col">
+                    <div id="t6">Tiempo de Preparacion Estimado</div>
+                    <input type="time" class="form-control" id="tiempo" placeholder="ingrese tiempo estimado">
+                </div>
+              </div>
+            </div>
+
+            <div class="d-grid">
+                <button type="submit" class="btn boton-registrar" id="t7">REGISTRAR</button>
+            </div>
+          </form>
+        </div>
+      </div>
+
+
+      <div class="fondo-degradado d-flex justify-content-center align-items-center vh-1000 ">
+        <div class="contenedor-formulario my-5">
+          <div class="encabezado-formulario" id="t8">VISTA PREVIA DE LAS RECETAS</div>
+
+            <div class="table-responsive">
+              <table class="table table-striped table-bordered">
+                <thead>
+                  <tr>
+                    <th id="t9">Nombre de la receta</th>
+                    <th id="t10">Ingredientes Necesarios</th>
+                    <th id="t11">Preparacion</th>
+                    <th id="t12">Tipo de Receta</th>
+                    <th id="t13">Tiempo Estimado(HH:MM)</th>
+                    <th id="t14">Acciones</th>
+                  </tr>
+                </thead>
+                <tbody id="dataTable">
+                  
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <footer class="bg-dark text-white text-center py-5">
+      <div class="contenido-pie">
+        <!-- Logo y descripción -->
+        <h2 class="mb-2">Michael Manrique
+          <a href="#" class="btn btn-outline-light btn-lg me-2" aria-label="Facebook">
+            <i class="bi bi-facebook"></i>
+          </a>
+        </h2>
+        <p class="mb-4" id="pie1" >recetas con estilo</p>
+        <p class="small mb-0">
+          Michael Manrique. <a href="#" class="text-decoration-none text-white-50" id="pie2" >derechos reservados</a>
+        </p>
+      </div>
+    </footer>
+  
+
+
+
+
+    <script>
+      // Datos iniciales simulados en un archivo JSON
+      let data = [
+          { "nombre": "Ensalada César", 
+            "ingredientes": "Lechuga, crutones, pollo, queso parmesano, aderezo César", 
+            "preparacion": "Mezclar todos los ingredientes y añadir el aderezo al gusto.", 
+            "tipo": "Ensalada",
+            "tiempo": "00:15" },
+          { "nombre": "Brownie de Chocolate", 
+            "ingredientes": "Chocolate, mantequilla, azúcar, huevos, harina", 
+            "preparacion": "Derretir el chocolate y mezclar con los demás ingredientes. Hornear.", 
+            "tipo": "Postres",
+            "tiempo": "00:45"}
+      ];
+
+      // Función para renderizar los datos en la tabla
+      function renderTable() {
+          const dataTable = document.getElementById('dataTable');
+          dataTable.innerHTML = '';
+
+          data.forEach((item, index) => {
+              const row = document.createElement('tr');
+              row.innerHTML = `
+                    <td>${item.nombre}</td>
+                    <td>${item.ingredientes}</td>
+                    <td>${item.preparacion}</td>
+                    <td>${item.tipo}</td>
+                    <td>${item.tiempo+" horas" }</td>
+                    <td>
+                        <button onclick="editItem(${index})" id="t15">Editar</button>
+                        <button onclick="deleteItem(${index})" id="t16">Eliminar</button>
+                    </td>
+              `;
+              dataTable.appendChild(row);
+          });
+      }
+
+      // Función para agregar un nuevo elemento
+      document.getElementById('addForm').addEventListener('submit', function(e) {
+          e.preventDefault();
+          const nombre = document.getElementById('nombre').value;
+          const ingredientes = document.getElementById('ingredientes').value;
+          const preparacion = document.getElementById('preparacion').value;
+          const tipo = document.getElementById('tipo').value;
+          const tiempo = document.getElementById('tiempo').value;
+
+          data.push({ nombre, ingredientes, preparacion, tipo, tiempo });
+          renderTable();
+          this.reset();
+      });
+
+      // Función para eliminar un elemento
+      function deleteItem(index) {
+          data.splice(index, 1);
+          renderTable();
+      }
+
+      // Función para editar un elemento
+      function editItem(index) {
+        const item = data[index];
+        const nombre = prompt("Editar nombre:", item.nombre);
+        const ingredientes = prompt("Editar ingredientes:", item.ingredientes);
+        const preparacion = prompt("Editar preparación:", item.preparacion);
+        const tipo = prompt("Editar tipo:", item.tipo);
+        const tiempo = prompt("Editar tiempo:", item.tiempo);
+
+        if (nombre && ingredientes && preparacion && tipo && tiempo) {
+            data[index] = { nombre, ingredientes, preparacion, tipo, tiempo };
+            renderTable();
+        } else {
+            alert("Todos los campos son obligatorios.");
+        }
+      }
+
+      // Renderizar tabla inicial
+      renderTable();
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../script.js"></script>
+    <script src="../idioma.js"></script>
+
+
+  </body>
+</html>
+
+

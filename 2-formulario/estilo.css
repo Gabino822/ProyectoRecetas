@@ -1,0 +1,46 @@
+/* Fondos predefinidos */
+.fondo-degradado {
+    background: linear-gradient(135deg, #000000, #000000);
+  }
+
+  .fondo-claro {
+    background: #ffffff;
+  }
+
+  .fondo-oscuro {
+    background: #ff0000;
+  }
+
+  /* Contenedor del formulario */
+  .contenedor-formulario {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    max-width: 1300px;
+    width: 100%;
+  }
+
+  /* Encabezado del formulario */
+  .encabezado-formulario {
+    background: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  /* Botón de registro */
+  .boton-registrar {
+    background-color: #f44336;
+    color: white;
+    font-weight: bold;
+    border: none;
+  }
+
+  .boton-registrar:hover {
+    background-color: #d32f2f;
+  }
+  

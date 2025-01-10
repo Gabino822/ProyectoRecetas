@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu2">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu3">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu4">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu5">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu6">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social Networks</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+
+    <text id="t1">
+        <es>FORMULARIO DE CREACION</es>
+        <en>CREATION FORM</en>
+    </text> 
+    <text id="t2">
+        <es>Nombre de la receta</es>
+        <en>Recipe Name</en>
+    </text> 
+    <text id="t3">
+        <es>Ingrese los ingredientes Necesarios</es>
+        <en>Enter the Required Ingredients</en>
+    </text> 
+    <text id="t4">
+        <es>Ingrese el metodo de preparacion</es>
+        <en>Enter the Preparation Method</en>
+    </text>
+    <text id="t5">
+        <es>Tipo de Receta</es>
+        <en>Recipe Type</en>
+    </text> 
+    <text id="op">
+        <es>Seleccionar opción</es>
+        <en>Select Option</en>
+    </text>
+    <text id="op1">
+        <es>Postre</es>
+        <en>Dessert</en>
+    </text>
+    <text id="op2">
+        <es>Plato Principal</es>
+        <en>Main Course</en>
+    </text>
+    <text id="op3">
+        <es>Sopas</es>
+        <en>Soups</en>
+    </text>
+    <text id="op4">
+        <es>Ensaladas</es>
+        <en>Salads</en>
+    </text>
+    <text id="op5">
+        <es>Otro</es>
+        <en>Other</en>
+    </text>
+    
+    <text id="t6">
+        <es>Tiempo de Preparacion Estimado</es>
+        <en>Estimated Preparation Time</en>
+    </text> 
+    <text id="t7">
+        <es>REGISTRAR</es>
+        <en>REGISTER</en>
+    </text>
+    <text id="t8">
+        <es>VISTA PREVIA DE LAS RECETAS</es>
+        <en>RECIPE PREVIEW</en>
+    </text> 
+    <text id="t9">
+        <es>Nombre de la receta</es>
+        <en>Recipe Name</en>
+    </text>
+    <text id="t10">
+        <es>Ingredientes Necesarios</es>
+        <en>Required Ingredients</en>
+    </text> 
+    <text id="t11">
+        <es>Preparacion</es>
+        <en>Preparation</en>
+    </text> 
+    <text id="t12">
+        <es>Tipo de Receta</es>
+        <en>Recipe Type</en>
+    </text> 
+    <text id="t13">
+        <es>Tiempo Estimado(HH:MM)</es>
+        <en>Estimated Time (HH:MM)</en>
+    </text> 
+    <text id="t14">
+        <es>Acciones</es>
+        <en>Actions</en>
+    </text> 
+    <text id="t15">
+        <es>Editar</es>
+        <en>Edit</en>
+    </text> 
+
+    <text id="t16">
+        <es>Eliminar</es>
+        <en>eliminate</en>
+    </text> 
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>
+

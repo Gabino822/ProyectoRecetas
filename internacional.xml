@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Mi Sitio</es>
+        <en>My Site</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>Extras</es>
+        <en>Extras</en>
+        
+    </text>
+    <text id="menu6">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu8">
+        <es>Volver</es>
+        <en>Back</en>
+    </text> 
+    <text id="mensaje1">
+        <es>¡"Bienvenidos a "Recetas Creativas</es>
+        <en>¡"Welcome to "Creative Recipes</en>
+    </text>
+    <text id="mensaje2">
+        <es>Con Michael G. Manrique Fernández"!</es>
+        <en>with Michael G. Manrique Fernández"!</en>
+    </text> 
+    <text id="mensaje3">
+        <es>Es un placer darles la bienvenida a esta página, creada como parte del primer módulo de los cursos de diplomado. Aquí encontrarán una colección de recetas llenas de creatividad, diseñadas para inspirar y deleitar sus sentidos.</es>
+        <en>It is a pleasure to welcome you to this page, created as part of the first module of the diploma courses. Here you will find a collection of recipes full of creativity, designed to inspire and delight your senses.</en>
+    </text>
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+
+</translations>

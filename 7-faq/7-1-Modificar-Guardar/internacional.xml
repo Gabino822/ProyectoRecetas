@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Modificar y Guardar</es>
+        <en>Modify and Save</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu6">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu4">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu5">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu8">
+        <es>Volver</es>
+        <en>Back</en>
+    </text> 
+
+
+    <text id="t1">
+        <es>Paso 1</es>
+        <en>Step 1</en>
+    </text>
+    <text id="t2">
+        <es>Ingrese a la pagina principal.</es>
+        <en>Go to the homepage.</en>
+    </text>
+    <text id="t3">
+        <es>Busque la opcion formulario haga click en el lugar señalado.</es>
+        <en>Search for the form option and click on the highlighted area.</en>
+    </text>
+    <text id="t4">
+        <es>Paso 2</es>
+        <en>Step 2</en>
+    </text>
+    <text id="t5">
+        <es>Ingresando al formulario:</es>
+        <en>Entering the form:</en>
+    </text>
+    <text id="t6">
+        <es>En la página, deslice hacia abajo.</es>
+        <en>On the page, scroll down.</en>
+    </text>
+    <text id="t7">
+        <es>Paso 3</es>
+        <en>Step 3</en>
+    </text>
+    <text id="t8">
+        <es>A las opciones señaladas:</es>
+        <en>To the highlighted options:</en>
+    </text>
+    <text id="t9">
+        <es>Vaya a ambas opciones que le permitirá modificar o eliminar, diviértase.</es>
+        <en>Go to both options that will allow you to modify or delete, have fun.</en>
+    </text>
+
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text>  
+</translations>

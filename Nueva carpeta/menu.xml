@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>02menuxml.html</link>
+        <submenu>
+            <items>
+                <nombre>Galería</nombre>
+                <link>galeria.html</link>
+            </items>
+            <items>
+                <nombre>Blog</nombre>
+                <link>blog.html</link>
+            </items>
+        </submenu>
+    </item>
+    <item>
+        <nombre>Formulario</nombre>
+        <link>formulario de creacion.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>docentes.html</link>
+    </item>
+    <item>
+        <nombre>Recomendaciones</nombre>
+        <link>aulas.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>aulas.html</link>
+    </item>
+    <item>
+        <nombre>Extras</nombre>
+        <link>aulas.html</link>
+        <submenu>
+            <items>
+                <nombre>Galería</nombre>
+                <link>galeria.html</link>
+            </items>
+            <items>
+                <nombre>Blog</nombre>
+                <link>blog.html</link>
+            </items>
+        </submenu>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>aulas.html</link>
+    </item>
+    <item>
+        <nombre>Contactos</nombre>
+        <link>aulas.html</link>
+    </item>
+</menu>

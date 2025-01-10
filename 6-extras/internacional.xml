@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu4">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu5">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">Evaluacion de RecetasModificar y Guardar
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu6">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social networks</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+
+
+    <text id="t1">
+        <es>Herramientas para calcular porciones</es>
+        <en>Tools for Calculating Portions</en>
+    </text>
+    <text id="t2">
+        <es>Planificar las porciones correctas puede ser sencillo con las herramientas adecuadas.</es>
+        <en>Planning the correct portions can be simple with the right tools.</en>
+    </text>
+    <text id="t3">
+        <es>Báscula de cocina digital: Ideal para medir ingredientes como carne, harina o azúcar con precisión.</es>
+        <en>Digital kitchen scale: Perfect for measuring ingredients like meat, flour, or sugar with precision.</en>
+    </text>
+    <text id="t4">
+        <es>Tazas y cucharas medidoras: Perfectas para recetas de repostería donde las medidas exactas son clave.</es>
+        <en>Measuring cups and spoons: Essential for baking recipes where precise measurements are key.</en>
+    </text>
+    <text id="t5">
+        <es>Calculadoras de porciones online: Herramientas como MyFitnessPal te ayudan a calcular porciones según tus necesidades calóricas diarias.</es>
+        <en>Online portion calculators: Tools like MyFitnessPal help you calculate portions based on your daily caloric needs.</en>
+    </text>
+    <text id="t6">
+        <es>Ejemplo: ¿Cocinas para cuatro? Usa una báscula para pesar 200 g de pollo por persona y ajusta las verduras según las tazas medidoras.</es>
+        <en>Example: Cooking for four? Use a scale to measure 200 g of chicken per person and adjust the vegetables using measuring cups.</en>
+    </text>
+    <text id="t7">
+        <es>Recomendación de Utensilios de Cocina</es>
+        <en>Kitchen Utensil Recommendations</en>
+    </text>
+    <text id="t8">
+        <es>Equipar tu cocina con los utensilios adecuados puede transformar tu experiencia culinaria:</es>
+        <en>Equipping your kitchen with the right utensils can transform your cooking experience:</en>
+    </text>
+    <text id="t9">
+        <es>Sartenes antiadherentes de calidad: Ideales para cocinar con menos aceite.</es>
+        <en>Quality non-stick pans: Ideal for cooking with less oil.</en>
+    </text>
+    <text id="t10">
+        <es>Cuchillos de chef afilados: Herramientas esenciales para cortar verduras y carnes de manera eficiente.</es>
+        <en>Sharp chef knives: Essential tools for cutting vegetables and meats efficiently.</en>
+    </text>
+    <text id="t11">
+        <es>Batidor manual: Excelente para preparar salsas ligeras o mezclar huevos rápidamente.</es>
+        <en>Manual whisk: Excellent for preparing light sauces or quickly mixing eggs.</en>
+    </text>
+    <text id="t12">
+        <es>Ejemplo: Con un cuchillo santoku, puedes cortar zanahorias en juliana de forma rápida y precisa.</es>
+        <en>Example: With a Santoku knife, you can julienne carrots quickly and precisely.</en>
+    </text>
+    <text id="t13">
+        <es>Consejos Sobre Nutrición</es>
+        <en>Nutrition Tips</en>
+    </text>
+    <text id="t14">
+        <es>Mantener una alimentación equilibrada no tiene por qué ser complicado:</es>
+        <en>Maintaining a balanced diet doesn't have to be complicated:</en>
+    </text>
+    <text id="t15">
+        <es>Incluye una fuente de proteína magra como pollo, tofu o pescado en cada comida.</es>
+        <en>Include a source of lean protein like chicken, tofu, or fish in every meal.</en>
+    </text>
+    <text id="t16">
+        <es>Agrega colores a tu plato con vegetales frescos como espinacas, zanahorias y pimientos.</es>
+        <en>Add color to your plate with fresh vegetables like spinach, carrots, and bell peppers.</en>
+    </text>
+    <text id="t17">
+        <es>Evita el exceso de azúcares refinados optando por frutas como snack.</es>
+        <en>Avoid excess refined sugars by choosing fruits as a snack.</en>
+    </text>
+    <text id="t18">
+        <es>Ejemplo: Cambia una bebida azucarada por agua con rodajas de limón y menta para mantenerte hidratado y saludable.</es>
+        <en>Example: Swap a sugary drink for water with slices of lemon and mint to stay hydrated and healthy.</en>
+    </text>
+    <text id="t19">
+        <es>Blogs de recetas creativas</es>
+        <en>Creative Recipe Blogs</en>
+    </text>
+    <text id="t20">
+        <es>Inspírate con blogs que ofrecen recetas únicas y fáciles de preparar:</es>
+        <en>Get inspired by blogs offering unique and easy-to-make recipes:</en>
+    </text>
+    <text id="t21">
+        <es>: Recetas con pocos ingredientes, como un increíble hummus de aguacate.</es>
+        <en>: Recipes with few ingredients, like an amazing avocado hummus.</en>
+    </text>
+    <text id="t22">
+        <es>: Ideas rápidas como tacos de pollo al estilo asiático.</es>
+        <en>: Quick ideas like Asian-style chicken tacos.</en>
+    </text>
+    <text id="t23">
+        <es>: Especializada en recetas latinas modernas, como empanadas de plátano maduro.</es>
+        <en>: Specializing in modern Latin recipes, like sweet plantain empanadas.</en>
+    </text>
+    <text id="t24">
+        <es>Ejemplo: Aprende a preparar una pizza casera con base de coliflor siguiendo los pasos de un blog especializado.</es>
+        <en>Example: Learn to make a homemade cauliflower crust pizza by following steps from a specialized blog.</en>
+    </text>
+
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>

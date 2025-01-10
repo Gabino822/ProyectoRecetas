@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <text id="misitio">
+        <es>Recomendaciones</es>
+        <en>Recommendations</en>
+    </text>
+    <text id="menu0">
+        <es>Inicio</es>
+        <en>Home</en>
+    </text>
+    <text id="menu1">
+        <es>Formulario</es>
+        <en>Form</en>
+    </text>
+    <text id="menu2">
+        <es>Resultados</es>
+        <en>Results</en>
+    </text>
+    <text id="menu3">
+        <es>comunidad</es>
+        <en>Community</en>
+        <text id="submenu1">
+            <es>Foro de Discucion</es>
+            <en>Discussion Forum</en>
+        </text>
+        <text id="submenu2">
+            <es>Evaluacion de Recetas</es>
+            <en>Recipe Evaluation</en>
+        </text>
+    </text>
+    <text id="menu4">
+        <es>Extras</es>
+        <en>Extras</en>
+    </text>
+    <text id="menu5">
+        <es>FAQ</es>
+        <en>FAQ</en>
+        <text id="submenu3">
+            <es>Modificar y Guardar</es>
+            <en>Modify and Save</en>
+        </text>
+        <text id="submenu4">
+            <es>Privacidad y Soporte</es>
+            <en>Privacy and Support</en>
+        </text>
+    </text>
+    <text id="menu6">
+        <es>Contactos</es>
+        <en>Contacts</en>
+        <text id="submenu5">
+            <es>Formulario de Contacto</es>
+            <en>Contact Form</en>
+        </text>
+        <text id="submenu6">
+            <es>Redes Sociales</es>
+            <en>Social Networks</en>
+        </text>
+    </text>
+    <text id="menu7">
+        <es>Volver</es>
+        <en>Back</en>
+    </text>  
+
+    <text id="t1">
+        <es>Recetas Populares</es>
+        <en>Popular Recipes</en>
+    </text> 
+    <text id="t2">
+        <es>Nombre del platillos: Tiras de pollo con miel y mostaza</es>
+        <en>Dish Name: Chicken Strips with Honey and Mustard</en>
+    </text> 
+    <text id="t3">
+        <es>Categoría: Plato fuerte rápido</es>
+        <en>Category: Quick Main Dish</en>
+    </text> 
+    <text id="t4">
+        <es>Ingredientes: 2 pechugas de pollo, cortadas en tiras, 2 cucharadas de miel,1 cucharada de mostaza Dijon
+                1 cucharada de aceite de oliva, Sal y pimienta al gusto</es>
+        <en>Ingredients: 2 chicken breasts, cut into strips, 2 tablespoons of honey, 1 tablespoon of Dijon mustard,
+                1 tablespoon of olive oil, Salt and pepper to taste</en>
+    </text> 
+    <text id="t5">
+        <es>Tiempo estimado de preparación: 00:15 horas</es>
+        <en>Estimated Preparation Time: 00:15 hours</en>
+    </text> 
+    <text id="t6">
+        <es>Preparación: En un tazón, mezcla la miel, la mostaza, el aceite de oliva, la sal y la pimienta.
+                Calienta una sartén antiadherente a fuego medio.
+                Cocina las tiras de pollo hasta que estén doradas por ambos lados (aproximadamente 5 minutos por lado).
+                Agrega la mezcla de miel y mostaza a la sartén y cocina por 2 minutos más, asegurándote de cubrir bien las tiras con la salsa.
+                Sirve caliente, acompañado de ensalada o arroz.</es>
+        <en>Preparation: In a bowl, mix honey, mustard, olive oil, salt, and pepper.
+                Heat a non-stick pan over medium heat.
+                Cook the chicken strips until golden on both sides (about 5 minutes per side).
+                Add the honey-mustard mixture to the pan and cook for another 2 minutes, making sure to coat the strips well with the sauce.
+                Serve hot, accompanied by salad or rice.</en>
+    </text> 
+    <text id="t7">
+        <es>>Ideas de Ingredientes Para Variar la Receta</es>
+        <en>Ingredient Ideas to Vary the Recipe</en>
+    </text> 
+    <text id="t8">
+        <es>¿Quieres darle un toque diferente a tus platos favoritos? Aquí tienes algunas ideas:</es>
+        <en>Want to give a unique twist to your favorite dishes? Here are some ideas:</en>
+    </text> 
+    <text id="t9">
+        <es>Pizza casera: Sustituye la masa tradicional por una base de coliflor para una versión más saludable.
+                Tacos: Cambia la carne por setas portobello para un giro vegetariano lleno de sabor.
+                Smoothie de frutas: Agrega un toque de jengibre o canela para potenciar los sabores. Transforma tus recetas habituales en creaciones únicas con ingredientes que sorprendan a tu paladar.</es>
+        <en>Homemade pizza: Replace the traditional dough with a cauliflower crust for a healthier version.
+                Tacos: Swap meat for portobello mushrooms for a flavorful vegetarian twist.
+                Fruit smoothie: Add a touch of ginger or cinnamon to enhance the flavors. Transform your usual recipes into unique creations with ingredients that surprise your palate.</en>
+    </text> 
+    <text id="t10">
+        <es>Consejos Para Cocinar Mejor</es>
+        <en>Tips for Better Cooking</en>
+    </text> 
+    <text id="t11">
+        <es>¿Sabías que pequeños ajustes pueden hacer una gran diferencia en tus platos?</es>
+        <en>Did you know small adjustments can make a big difference in your dishes?</en>
+    </text> 
+    <text id="t12">
+        <es>Carne jugosa: Siempre deja reposar los cortes cocidos durante 5 minutos antes de servir para que retengan sus jugos.</es>
+        <en>Juicy meat: Always let cooked cuts rest for 5 minutes before serving to retain their juices.</en>
+    </text> 
+    <text id="t13">
+        <es>Pastas perfectas: Añade sal al agua cuando empiece a hervir para intensificar el sabor de tu pasta.</es>
+        <en>Perfect pasta: Add salt to the water when it starts boiling to enhance the pasta's flavor.</en>
+    </text> 
+    <text id="t14">
+        <es>Verduras más sabrosas: Asa zanahorias, calabacines y pimientos con un poco de miel y romero para realzar su dulzura natural. Estos consejos te ayudarán a llevar tu cocina al siguiente nivel.</es>
+        <en>Tastier vegetables: Roast carrots, zucchini, and peppers with a touch of honey and rosemary to enhance their natural sweetness. These tips will help you take your cooking to the next level.</en>
+    </text> 
+    <text id="t15">
+        <es>Videos tutoriales</es>
+        <en>Tutorial videos</en>
+    </text> 
+
+    <text id="pie1">
+        <es>recetas con estilo</es>
+        <en>stylish recipes</en>
+    </text> 
+    <text id="pie2">
+        <es>derechos reservados</es>
+        <en>rights reserved</en>
+    </text> 
+</translations>
