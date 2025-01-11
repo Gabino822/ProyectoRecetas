@@ -1,13 +1,12 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin-top: 1000px;
-    padding-top: 1000%;
+
   }
   
   /* Estilo del carrusel */
   .carousel img {
     object-fit: cover;
-    height: 400px; /* Altura fija del carrusel */
+    height: 500px; /* Altura fija del carrusel */
   }
 
   /* Sección "Acerca de mí" */
